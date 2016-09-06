@@ -1,2 +1,3 @@
 # RDF2Neo4J
-Visualize RDF using NeoJ browser
+ This project aims to convert any RDF formats to view using a Neo4JBrowser.
+
